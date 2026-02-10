@@ -84,11 +84,7 @@ Improve visuals and animations ✨
 🧠 Acknowledgements
 This project is part of the 100 Days of Code: Python Bootcamp by Angela Yu. 
 
-📸 Screenshot (Optional)
-Add a screenshot or GIF of your Pong game here:
-
-
-✨ Author
+## Author
 Gaurang Sharma
 Python Developer | 100 Days of Code Challenger 🚀
 
