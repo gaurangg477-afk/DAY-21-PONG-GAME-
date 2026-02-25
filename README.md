@@ -1,6 +1,6 @@
-# 🏓 Pong Game – Day 22 (Python Turtle)
+# 🏓 Pong Game – Day 21 (Python Turtle)
 
-This is a Python implementation of the classic **Pong Game** from **Day 22** of Angela Yu’s *100 Days of Code: Python Bootcamp* — built using the `turtle` graphics module with Object-Oriented Programming (OOP). :contentReference[oaicite:1]{index=1}
+This is a Python implementation of the classic **Pong Game** from **Day 21** of Angela Yu’s *100 Days of Code: Python Bootcamp* — built using the `turtle` graphics module with Object-Oriented Programming (OOP). :contentReference[oaicite:1]{index=1}
 
 👉 Live project link (source code):  
 https://github.com/gaurangg477-afk/DAY-21-PONG-GAME-/tree/main :contentReference[oaicite:2]{index=2}
